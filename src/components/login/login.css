@@ -1,0 +1,44 @@
+
+
+.login {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form__login {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.login__title {
+    color: white;
+    margin-bottom: 15px;
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+}
+
+.password {
+    display: flex;
+    flex-direction: column;
+}
+
+.button__form {
+    margin-right: 10px;
+}

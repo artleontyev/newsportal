@@ -1,0 +1,16 @@
+.addpost {
+    color: white;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+
+    height: 250px;
+    justify-content: space-between;
+}
+
+.button__items {
+    display: flex;
+    justify-content: center;
+}
